@@ -28,8 +28,4 @@ This project focuses on predicting the likelihood of hotel booking cancellations
 - Booking patterns vary significantly across hotel types and seasons.
 - Feature encoding improved model performance, particularly for tree-based models.
 
-##  Dataset Source
-
-Hotel Booking Demand Dataset – Kaggle
-https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
