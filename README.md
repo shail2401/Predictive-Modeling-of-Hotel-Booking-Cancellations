@@ -21,7 +21,7 @@ This project focuses on predicting the likelihood of hotel booking cancellations
 - 'Hotel_Cancellation_Prediction.ipynb' – Full notebook with code, visualizations, and explanations.
 - 'hotel.csv'- Dataset
 - 'README.md' – Project documentation.
-- 
+
 ##  Key Insights
 
 - Longer lead times, group bookings, and no deposit types strongly correlate with cancellations.
