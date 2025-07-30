@@ -1,4 +1,4 @@
-# Hotel Reservation Cancellation Prediction
+# Predictive Modeling of Hotel Booking Cancellations
 
 This project focuses on predicting the likelihood of hotel booking cancellations using machine learning techniques. By analyzing customer behavior and reservation details, the model helps hotels anticipate and reduce the impact of potential cancellations.
 
